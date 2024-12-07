@@ -1,0 +1,6 @@
+## aws_launch_template
+## aws_autoscaling_group
+## aws_autoscaling_schedule
+## aws_security_group ( for Instance)
+## aws_security_group_rule  ( 1 rule for Instance)
+## aws_cloudwatch_metric_alarm
